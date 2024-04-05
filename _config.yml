@@ -11,6 +11,9 @@ primary_color_dark: "#bb86fc"
 favicon: /favicon.ico
 touchicon: /apple-icon-precomposed.png
 
+# Flip &copy; in footer horizontal
+copyleft: false
+
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------
