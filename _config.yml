@@ -9,6 +9,7 @@ primary_color: "#7065a3"
 primary_color_dark: "#bb86fc"
 
 favicon: /favicon.ico
+touchicon: /apple-icon-precomposed.png
 
 # ---------------------------------------------------------------
 # SEO Settings

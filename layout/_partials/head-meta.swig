@@ -6,6 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-siteapp">
 <meta name="generator" content="Hexo" />
 <link rel="icon" href="{{ url_for(theme.favicon) }}" />
+<link rel="apple-touch-icon-precomposed" href="{{ url_for(theme.touchicon) }}">
 
 {%- if theme.canonical %}
   <link rel="canonical" href="{{ config.url }}/{{ page.canonical_path.replace('index.html', '') }}"/>
