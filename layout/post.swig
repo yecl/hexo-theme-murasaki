@@ -23,6 +23,7 @@
     {% endif %}
 
     <div class="post-content">{{ lazyloadImage(page.content) }}</div>
+    <br />
   </article>
 
   {% if (page.prev || page.next) %}
