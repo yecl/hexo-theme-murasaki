@@ -39,7 +39,7 @@
       <span>&copy;</span>
     {% endif %}
        {{ year }} <a href="{{ config.url }}">{{ config.title }}</a>. Proudly published with
-      <a href="https://hexo.io/" target="_blank">Hexo</a> & <a href="https://github.com/printempw/hexo-theme-murasaki/" target="_blank">Murasaki</a> & <a href="https://sakura.ad.jp" target="_blank">SakuraInternet</a>.
+      <a href="https://hexo.io/" target="_blank">Hexo</a> & <a href="https://github.com/printempw/hexo-theme-murasaki/" target="_blank">Murasaki</a> & <a href="https://www.sakura.ad.jp" target="_blank">SakuraInternet</a>.
     </p>
   </div>
 </footer>
